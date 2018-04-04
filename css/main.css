@@ -1821,7 +1821,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #b5617d;
+  background: #c3421b;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2584,7 +2584,7 @@ embed {
 }
 @media screen and (min-width: 1200px) {
   body {
-    background-image: url("/images/guozi.jpg");
+    background-image: url("/images/background.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: 50% 50%;
