@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #2bffff;
+  background: #01dbff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2810,11 +2810,11 @@ hr {
 }
 @media screen and (min-width: 1200px) {
   body {
+    background-image: url("/images/love.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: 100% 100%;
     background-size: cover;
-    opacity: 0.2;
   }
   .header-inner {
     opacity: 0.3;
